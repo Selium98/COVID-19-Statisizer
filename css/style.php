@@ -12,6 +12,7 @@ html {
 
 .nav_style a{color: white;}
 
+
 /***************main header **************************/
 
 .main_header{
