@@ -18,6 +18,11 @@
       <li class="nav-item active">
         <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
       </li>
+
+      <li class="nav-item">
+        <a class="nav-link" href="indiacorona.php">India Statistics</a>
+      </li>
+
       <li class="nav-item">
         <a class="nav-link" href="#aboutid">About</a>
       </li>
@@ -406,6 +411,8 @@
 		document.body.scrollTop = 0; // for safari
 		document.documentElement.scrollTop = 0; // for chrome and opera
 	}
+
+	//for table
 
 	function fetch() {
 		$.get("https://api.covid19api.com/summary" ,
