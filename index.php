@@ -80,6 +80,7 @@
 
 	<div class="table-responsive">
 		<table class="table table-bordered table-striped text-center" id="tbval">
+			<thead>
 			<tr>
 				<th>Country</th>
 				<th>Total Confirmed</th>
@@ -89,9 +90,19 @@
 				<th>New Recovered</th>
 				<th>New Deaths</th>
 			</tr>
+		</thead>
 		</table>
 		
 	</div>
+
+	<script src="jquery.min.js"></script>"
+	<script src="jquery.freezeheader.js"></script>
+	<script>
+		$('thead').freezeHeader({
+		height:"300px";
+	});
+	</script>
+
 
 	
 	
@@ -470,6 +481,8 @@
 			});
 		}
 	});
+
+
 </script>
 
 
