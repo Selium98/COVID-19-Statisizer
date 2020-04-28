@@ -7,11 +7,13 @@ submit a form with a message regarding the symptoms they are experiencing.
 
 Some of the useful resources are as follows :
 
-https://api.covid19api.com/summary : 
+1. https://api.covid19api.com/summary : 
+
 This api helps to keep track of the various cases of Covid19 around the world. The data is compiled 
 from John Hopkins University.
 
-https://getbootstrap.com/docs/4.0/components/alerts/ : 
+2. https://getbootstrap.com/docs/4.0/components/alerts/ : 
+
 It includes documentation and examples for Bootstrap’s powerful, responsive 
 navigation header, the navbar. It also includes support for branding, navigation, and more, including support for collapse pluging ads via 
 CarbonLimited.
