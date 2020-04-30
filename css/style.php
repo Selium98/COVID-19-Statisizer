@@ -41,7 +41,7 @@ html {
 	40% {transform: scale( .75 ); }
 	60% {transform: scale( 1 ); }
 	80% {transform: scale( .75 ); }
-	100% {transform: scale( .75 ); }
+	100% {transform: scale( .1 ); }
 
 }
 
