@@ -49,7 +49,7 @@
 
 
 <section class="corona_update container-fluid">
-  <div class="mt-5">
+  <div class="mt-6">
     <h1 class="text-center">COVID-19 UPDATES OF INDIA</h1><br>
   </div>
 
