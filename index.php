@@ -314,7 +314,7 @@
 
 				  <div class="form-group">
 				    <label >Mobile Number</label>
-				    <input type="number" class="form-control" name="phone" placeholder="Enter Your 10-Digit Phone Number" autocomplete="off" required>
+				    <input type="number" class="form-control" maxlength="10" name="phone" placeholder="Enter Your 10-Digit Phone Number" autocomplete="off" required>
 				  </div>
 
 				  <div class="form-group">
