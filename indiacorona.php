@@ -113,14 +113,7 @@
     
   </div>
 
-  <script src="jquery.min.js"></script>
-  <script src="jquery.freezeheader.js"></script>
-  <script>
-    $('thead').freezeHeader({
-    height:"300px";
-  });
-  </script>
-
+  
 
   
   
