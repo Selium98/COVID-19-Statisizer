@@ -107,6 +107,9 @@ html {
 	 font-size: 1.875em;
 }
 
+
+/* Country table header */
+
 .country {
 	background-color: #7a4a91;
 	color: white;
