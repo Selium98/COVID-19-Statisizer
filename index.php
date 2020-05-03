@@ -74,7 +74,8 @@
 
 <section class="corona_update container-fluid">
 	<div class="mb-3">
-		<h1 class="text-center">COVID-19 UPDATES OF ALL THE COUNTRIES</h1><br>
+		<h1 class="text-center">COVID-19 UPDATES OF ALL THE COUNTRIES</h1>
+		<h5 class="text-center">(The Site Is Updated Every 5 Hour)</h5><br>
 	</div>
 
 	<div align="center">
