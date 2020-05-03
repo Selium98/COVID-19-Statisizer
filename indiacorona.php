@@ -59,6 +59,25 @@
     </div>
   </div>
 
+  <h4> INDEX : </h4> 
+  <div class="table-responsive">
+    <table class="table table-bordered table-striped text-center" >
+      <thead>
+      <tr>
+        <th>Last Updated Time and Date</th>
+        <th>State</th>
+        <th>Confirmed</th>
+        <th>Active </th>
+        <th>Recovered</th>
+        <th>Deaths</th>
+      </tr>
+    </thead>
+    </table>
+    
+  </div>
+
+  <br>
+
   <div class="table-responsive">
     <table class="table table-bordered table-striped text-center" id="tbval">
       <thead>
