@@ -107,4 +107,33 @@ html {
 	 font-size: 1.875em;
 }
 
+.country {
+	background-color: #7a4a91;
+	color: white;
+}
+
+.totcon {
+	background-color: #4dd7d8; 
+}
+
+.totrec {
+	background-color: #26C281;
+}
+
+.totdea {
+	background-color: #f36e23;
+}
+
+.newcon {
+	background-color: #d1d130;
+}
+
+.newrec {
+	background-color: #2ce66a;
+}
+
+.newdea {
+	background-color: #ed13c5;
+}
+
 </style>

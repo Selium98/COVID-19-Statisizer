@@ -83,6 +83,26 @@
 		</div>
 	</div>
 
+	<h4> INDEX : </h4> 
+	<div class="table-responsive">
+		<table class="table table-bordered table-striped text-center" >
+			<thead>
+			<tr>
+				<th class="country">Name of the Country You Entered in Search Bar</th>
+				<th class="totcon">Total Confirmed</th>
+				<th class="totrec">Total Recovered</th>
+				<th class="totdea">Total Deaths</th>
+				<th class="newcon">New Confirmed</th>
+				<th class="newrec">New Recovered</th>
+				<th class="newdea">New Deaths</th>
+			</tr>
+		</thead>
+		</table>
+		
+	</div>
+
+	<br>
+
 	<div class="table-responsive">
 		<table class="table table-bordered table-striped text-center" id="tbval">
 			<thead>
@@ -429,15 +449,15 @@
 
 					x.insertCell(4);
 					tbval.rows[i].cells[4].innerHTML = data['Countries'][i-1]['NewConfirmed'];
-					tbval.rows[i].cells[4].style.background = '#4bb7d8';
+					tbval.rows[i].cells[4].style.background = '#d1d130';
 
 					x.insertCell(5);
 					tbval.rows[i].cells[5].innerHTML = data['Countries'][i-1]['NewRecovered'];
-					tbval.rows[i].cells[5].style.background = '#9cc850';
+					tbval.rows[i].cells[5].style.background = '#2ce66a';
 
 					x.insertCell(6);
 					tbval.rows[i].cells[6].innerHTML = data['Countries'][i-1]['NewDeaths'];
-					tbval.rows[i].cells[6].style.background = '#f36e23';
+					tbval.rows[i].cells[6].style.background = '#ed13c5';
 
 
 
