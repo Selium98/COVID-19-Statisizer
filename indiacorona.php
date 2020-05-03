@@ -45,12 +45,14 @@
     </ul>
     
   </div>
-</nav>
+</nav> 
+<br>
+<br>
 
 
 <section class="corona_update container-fluid">
   <div class="mt-6">
-    <h1 class="text-center">COVID-19 UPDATES OF INDIA</h1><br>
+    <h1 class="text-center">COVID-19 UPDATES OF INDIA</h1><br><br>
   </div>
 
   <div align="center">
@@ -64,7 +66,7 @@
     <table class="table table-bordered table-striped text-center" >
       <thead>
       <tr>
-        <th>Last Updated Time and Date</th>
+        <th>Last Updated Date and Time</th>
         <th>State</th>
         <th>Confirmed</th>
         <th>Active </th>
