@@ -17,3 +17,7 @@ from John Hopkins University.
 It includes documentation and examples for Bootstrap’s powerful, responsive 
 navigation header, the navbar. It also includes support for branding, navigation, and more, including support for collapse pluging ads via 
 CarbonLimited.
+
+3. https://api.covid19india.org/ :
+
+This API helps to fetch all the updates and statistics of Corona Cases in India
