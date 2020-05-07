@@ -53,7 +53,7 @@
 <section class="corona_update container-fluid">
   <div class="mt-6">
     <h1 class="text-center">COVID-19 UPDATES OF INDIA</h1>
-    <h5 class="text-center">(The Site Is Updated Every 5 Hour)</h5><br><br>
+    <h5 class="text-center">(The Site Is Updated Every 8 Hours)</h5><br><br>
   </div>
 
   <div align="center">
