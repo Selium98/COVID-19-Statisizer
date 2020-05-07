@@ -360,6 +360,11 @@
 				    	<label class="custom-control-label" for="customcheckbox3">Difficulty In Breathing</label>
 				    </div>
 
+					<div class="custom-control custom-checkbox custom-control-inline text-capitalize">
+				    	<input type="checkbox" class="custom-control-input" id="customcheckbox5" name="coronasym[]" value="cpain">
+				    	<label class="custom-control-label" for="customcheckbox5">Chest Pain</label>
+				    </div>
+
 				    <div class="custom-control custom-checkbox custom-control-inline text-capitalize">
 				    	<input type="checkbox" class="custom-control-input" id="customcheckbox4" name="coronasym[]" value="tired">
 				    	<label class="custom-control-label" for="customcheckbox4">Feeling Weak</label>
