@@ -1,7 +1,7 @@
 
 <?php
          $dbhost = 'db_host_name';
-         $dbuser = 'root';
+         $dbuser = 'db_user_name';
          $dbpass = '';
          $dbname = 'coronaworld_db';
 
