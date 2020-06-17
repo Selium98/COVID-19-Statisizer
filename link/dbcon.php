@@ -3,7 +3,7 @@
          $dbhost = 'db_host_name';
          $dbuser = 'db_user_name';
          $dbpass = 'db_password';
-         $dbname = 'coronaworld_db';
+         $dbname = 'db_name';
 
          $con = mysqli_connect($dbhost, $dbuser, $dbpass, $dbname);
       
