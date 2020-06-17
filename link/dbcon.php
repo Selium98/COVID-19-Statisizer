@@ -1,6 +1,6 @@
 
 <?php
-         $dbhost = 'localhost';
+         $dbhost = 'db_host_name';
          $dbuser = 'root';
          $dbpass = '';
          $dbname = 'coronaworld_db';
