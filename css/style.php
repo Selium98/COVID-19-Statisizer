@@ -8,9 +8,14 @@ html {
 
 .nav_style{
 	background-color: #a43bfe!important; 
+
 }
 
 .nav_style a{color: white;}
+
+.nav-item a:hover{
+	background-color: #8d1ced;
+}
 
 
 /***************main header **************************/
