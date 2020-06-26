@@ -23,7 +23,7 @@
         <a class="nav-link" href="indiacorona.php">India Statistics</a>
       </li>
 
-      <li class="nav-item">
+      <!--<li class="nav-item">
         <a class="nav-link" href="#aboutid">About</a>
       </li>
 
@@ -37,7 +37,7 @@
 
       <li class="nav-item">
         <a class="nav-link" href="#contactid">Contact Us</a>
-      </li>
+      </li> -->
 
      
       
